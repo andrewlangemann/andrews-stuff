@@ -1,4 +1,5 @@
 Instructions to store your GitHub Copilot token in an encrypted way, and use that as a transient environment variable for Copilot running in Docker sandbox.
+See docs on Docker sandboxes: https://docs.docker.com/ai/sandboxes/get-started/
 
 1. Create a PAT in your GitHub settings with the "Copilot Requests" permission.
 
