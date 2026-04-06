@@ -19,7 +19,7 @@ CSP:
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com/)
 
 ### Supply Chain Defense
-Don't just trust it - `vet` it: [vet-run/vet: vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit approval to execute. Promoting a safer, more transparent way to handle remote code execution.](https://github.com/vet-run/vet?utm_source=tldrnewsletter)
+Don't just trust it - `vet` it: [vet-run/vet: vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit approval to execute. Promoting a safer, more transparent way to handle remote code execution.](https://github.com/vet-run/vet?
 
 If you're gonna install npm packages and stuff, use this: [Introducing Safe Chain: Stopping Malicious npm Packages Before They Wreck Your Project](https://www.aikido.dev/blog/introducing-safe-chain)
 
@@ -66,7 +66,7 @@ docker build . --secret id=SECRET_NAME
 ```bash
 git config --global core.autocrlf true  
 ```
-- Create a `.gitattributes` file (see PM Portal)
+- Create a `.gitattributes` file
 - Fix line endings:
 	- https://git-scm.com/docs/gitattributes#_end_of_line_conversion
 	- [Swiss File Knife](https://sourceforge.net/projects/swissfileknife/):  `sfk198.exe lf-to-crlf -yes -dir .`
