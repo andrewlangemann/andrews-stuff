@@ -1,14 +1,14 @@
-# andrews-stuff
+# Andrew's Stuff
 Helpful scripts and links that Andrew likes to use.
 
-## GitHub Copilot
+### GitHub Copilot
 
 - [Use Copilot sandbox with encrypted token on Windows](./copilot-sandbox-windows.md)
 
-## Parallels
+### Parallels
 Disable keyboard sync between Mac and Windows: [How to disable keyboard layout synchronisation between Mac and Windows virtual machine.](https://kb.parallels.com/115200)
 
-## C-Sharp
+### C-Sharp
 [CleanupCode Command-Line Tool | JetBrains Rider Documentation](https://www.jetbrains.com/help/rider/CleanupCode.html)
 
 ### Web Security and OWASP
@@ -17,6 +17,11 @@ Disable keyboard sync between Mac and Windows: [How to disable keyboard layout s
 CSP:
 - [Content Security Policy (CSP) - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CSP)
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com/)
+
+### Supply Chain Defense
+Don't just trust it - `vet` it: [vet-run/vet: vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit approval to execute. Promoting a safer, more transparent way to handle remote code execution.](https://github.com/vet-run/vet?utm_source=tldrnewsletter)
+
+If you're gonna install npm packages and stuff, use this: [Introducing Safe Chain: Stopping Malicious npm Packages Before They Wreck Your Project](https://www.aikido.dev/blog/introducing-safe-chain)
 
 ### SQL Server LocalDB on Windows for ARM
 ```bash
