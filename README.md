@@ -1,6 +1,9 @@
 # Andrew's Stuff
 Helpful scripts and links that Andrew likes to use.
 
+### Random Resources
+- Wizard Zines - these look really cool, and they have some free ones like [So You Want to be a Wizard](https://jvns.ca/wizard-zine.pdf)
+
 ### GitHub Copilot
 
 - [Use Copilot sandbox with encrypted token on Windows](./copilot-sandbox-windows.md)
